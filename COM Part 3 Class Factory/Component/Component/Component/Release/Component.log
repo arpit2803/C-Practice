@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CComponentImpl.cpp
+  CClassFactoryImpl.cpp
+  GUIID.cpp
+  dllmain.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Component.vcxproj -> C:\C++ Practice\COM Part 3 Class Factory\Component\Component\Release\Component.dll

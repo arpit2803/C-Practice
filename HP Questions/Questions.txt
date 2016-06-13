@@ -1,0 +1,6 @@
+http://www.geeksforgeeks.org/clone-linked-list-next-arbit-pointer-set-2/
+1. Cloning a list containing pointers to object
+2. parent starting child but again child waiting for parent to do something and then proceed.
+3. same function declared at multiple file(template version and non template version), what will happen while creating a executable.
+4. what operators can't be overloaded.
+ 

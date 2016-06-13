@@ -1,0 +1,4 @@
+﻿  COM Part 2.cpp
+Source.def(4): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library C:\C++ Practice\COM Part 2 Basic\COM Part 2\Debug\component.lib and object C:\C++ Practice\COM Part 2 Basic\COM Part 2\Debug\component.exp
+  COM Part 2.vcxproj -> C:\C++ Practice\COM Part 2 Basic\COM Part 2\Debug\component.dll

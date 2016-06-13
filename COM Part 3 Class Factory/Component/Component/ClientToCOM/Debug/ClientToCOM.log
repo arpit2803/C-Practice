@@ -1,0 +1,3 @@
+﻿  ClientToCOM.cpp
+c:\c++ practice\com part 3 class factory\component\component\clienttocom\clienttocom.cpp(21): warning C4101: 'pIUnknown': unreferenced local variable
+  ClientToCOM.vcxproj -> C:\C++ Practice\COM Part 3 Class Factory\Component\Component\Debug\ClientToCOM.exe
